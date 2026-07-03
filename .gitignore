@@ -1,0 +1,10 @@
+#Ignore compiled binaries
+*.exe
+*.out
+*.o
+*.app
+
+#Ignore IDE specific folders
+.vscode/
+
+
