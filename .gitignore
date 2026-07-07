@@ -10,3 +10,5 @@
 #ignore test files
 input.txt
 output.txt
+
+.ignore
