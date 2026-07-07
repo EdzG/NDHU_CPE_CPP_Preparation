@@ -7,4 +7,6 @@
 #Ignore IDE specific folders
 .vscode/
 
-
+#ignore test files
+input.txt
+output.txt
