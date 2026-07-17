@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm> //sorting, swap, max, min, count
-#include <string>
+// #include <string>
 #include <cctype> //tolower, toupper, isdigit, isalpha
 
 int main(){
