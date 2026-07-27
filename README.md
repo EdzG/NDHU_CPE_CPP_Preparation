@@ -17,8 +17,9 @@ is UVa problem 10041, mirrored on ZeroJudge as problem `a737`.
 - [`01_star_pool`](01_star_pool) — Early UVa problems worked through as a warm-up set.
 - [`02_lab_of_programming_II_114-2`](02_lab_of_programming_II_114-2) — Coursework exercises from the Lab of Programming II class.
 - [`03_kaohsiung_Municipal_GushanSeniorHighSchoolCompetition`](03_kaohsiung_Municipal_GushanSeniorHighSchoolCompetition) — Problems worked through from this competition's problem set.
+- [`04_leet_code`](04_leet_code) — LeetCode solutions, named `<problem number>_<Title>.cpp`.
 
 ## LeetCode
 
-Tracked at [leetcode.com/u/Edzz](https://leetcode.com/u/Edzz/) — solutions will be
-added to this repo under a dedicated folder as they're solved.
+Tracked at [leetcode.com/u/Edzz](https://leetcode.com/u/Edzz/) — solutions are added
+to [`04_leet_code`](04_leet_code) as they're solved.
