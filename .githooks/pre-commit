@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Keeps the ZeroJudge solved-count badge in README.md in sync with the repo
+# contents before every commit.
+set -euo pipefail
+repo_root="$(git rev-parse --show-toplevel)"
+"$repo_root/scripts/update_solved_badge.sh"
+git add "$repo_root/README.md"
