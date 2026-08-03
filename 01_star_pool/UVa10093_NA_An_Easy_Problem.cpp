@@ -11,7 +11,7 @@ int main(){
 		int sum = 0; 
 		int max = 0; 
 		for(int i = 0; i < input.length(); i++){
-			if(!isalnum(input[i])) continue; 
+			if(!std::isalnum(static_cast<unsigned char>(input[i]))) continue; 
 			int num = value(input[i]);
 			sum += num; 
 			if(num > max) max = num;

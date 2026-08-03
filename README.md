@@ -3,7 +3,7 @@
 Solved problems tracking my C++ practice in preparation for NDHU CPE, plus lab
 exercises and competition work along the way.
 
-![ZeroJudge Solved](https://img.shields.io/badge/ZeroJudge%20Solved-23-blue?style=for-the-badge)
+![ZeroJudge Solved](https://img.shields.io/badge/ZeroJudge%20Solved-24-blue?style=for-the-badge)
 [![LeetCode Solved](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=LeetCode%20Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FEdzz&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Edzz/)
 
 ## Naming Convention
